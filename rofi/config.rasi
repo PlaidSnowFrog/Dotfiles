@@ -1,0 +1,25 @@
+configuration {
+  display-drun: "Programs";
+  drun-display-format: "{icon} {name}";
+  font: "JetBrainsMono Nerd Font Medium 12";
+  modi: "window,drun,run,emoji,filebrowser";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+window {
+  width: 45%;
+}
+
+element-text {
+  background-color: inherit;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+element-icon {
+  size: 30;
+}

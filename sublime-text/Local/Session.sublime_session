@@ -1,0 +1,908 @@
+{
+	"file_history":
+	[
+		"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c",
+		"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c.rej",
+		"/home/riccardoc/suckless/dwm/dwm-6.5/config.def.h"
+	],
+	"folder_history":
+	[
+		"/home/riccardoc/suckless/dwm-flexipatch",
+		"/home/riccardoc/suckless/dwm/dwm-6.5"
+	],
+	"last_version": 4169,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1719846387,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			79.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"termin",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"terminu",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/riccardoc/suckless/dwm-flexipatch/config.def.h",
+				"/home/riccardoc/suckless/dwm-flexipatch/patches.def.h",
+				"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c.rej",
+				"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c",
+				"/home/riccardoc/suckless/dwm/dwm-6.5/config.def.h"
+			],
+			"find":
+			{
+				"height": 61.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gap",
+					"centered",
+					"https://dwm.suckless.org/patches/gap",
+					"https://dwm.suckless.org/patches/tile",
+					"https://dwm.suckless.org/patches/tilegap/",
+					"tilegap",
+					"https://dwm.suckless.org/patches/tilegap/",
+					"gap",
+					"monitor"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 61.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 264.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 118.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/riccardoc/suckless/dwm-flexipatch/patches.def.h",
+					"settings":
+					{
+						"buffer_size": 60729,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							105,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKPpAAAAAAAAo+kAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACk6QAAAAAAAKTpAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAKPpAAAAAAAApOkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACj6QAAAAAAAKPpAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							159,
+							1,
+							"left_delete",
+							null,
+							"AQAAANoqAAAAAAAA2ioAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADbKgAAAAAAANsqAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							160,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAANoqAAAAAAAA2yoAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADaKgAAAAAAANoqAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							164,
+							1,
+							"left_delete",
+							null,
+							"AQAAACLnAAAAAAAAIucAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAj5wAAAAAAACPnAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							165,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAACLnAAAAAAAAI+cAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAi5wAAAAAAACLnAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							168,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKfnAAAAAAAAp+cAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACo5wAAAAAAAKjnAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							169,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAKfnAAAAAAAAqOcAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACn5wAAAAAAAKfnAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							172,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGjoAAAAAAAAaOgAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABp6AAAAAAAAGnoAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							173,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAGjoAAAAAAAAaegAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABo6AAAAAAAAGjoAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							176,
+							1,
+							"left_delete",
+							null,
+							"AQAAADHpAAAAAAAAMekAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAy6QAAAAAAADLpAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							177,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAADHpAAAAAAAAMukAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAx6QAAAAAAADHpAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							223,
+							1,
+							"left_delete",
+							null,
+							"AQAAAErrAAAAAAAASusAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABL6wAAAAAAAEvrAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							224,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAErrAAAAAAAAS+sAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABK6wAAAAAAAErrAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							229,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOvaAAAAAAAA69oAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADs2gAAAAAAAOzaAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							230,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAOvaAAAAAAAA7NoAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADr2gAAAAAAAOvaAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							235,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKzZAAAAAAAArNkAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACt2QAAAAAAAK3ZAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							236,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAKzZAAAAAAAArdkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACs2QAAAAAAAKzZAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/riccardoc/suckless/dwm-flexipatch/config.def.h",
+					"settings":
+					{
+						"buffer_size": 95333,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							16,
+							2,
+							"left_delete",
+							null,
+							"AgAAAN4EAAAAAAAA3gQAAAAAAAABAAAAMN0EAAAAAAAA3QQAAAAAAAABAAAAMg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADfBAAAAAAAAN8EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAN0EAAAAAAAA3gQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdBAAAAAAAAN0EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							19,
+							1,
+							"left_delete",
+							null,
+							"AQAAADIFAAAAAAAAMgUAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzBQAAAAAAADMFAAAAAAAAAAAAAACAkEA"
+						],
+						[
+							20,
+							1,
+							"right_delete",
+							null,
+							"AQAAADIFAAAAAAAAMgUAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyBQAAAAAAADIFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAADIFAAAAAAAAMwUAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyBQAAAAAAADIFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIYFAAAAAAAAhgUAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHBQAAAAAAAIcFAAAAAAAAAAAAAACAkEA"
+						],
+						[
+							24,
+							1,
+							"right_delete",
+							null,
+							"AQAAAIYFAAAAAAAAhgUAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGBQAAAAAAAIYFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAIYFAAAAAAAAhwUAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGBQAAAAAAAIYFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							27,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOsFAAAAAAAA6wUAAAAAAAABAAAAMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADsBQAAAAAAAOwFAAAAAAAAAAAAAACAkEA"
+						],
+						[
+							28,
+							1,
+							"right_delete",
+							null,
+							"AQAAAOsFAAAAAAAA6wUAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrBQAAAAAAAOsFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAOsFAAAAAAAA7AUAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrBQAAAAAAAOsFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							31,
+							1,
+							"left_delete",
+							null,
+							"AQAAAE8GAAAAAAAATwYAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQBgAAAAAAAFAGAAAAAAAAAAAAAACAkEA"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAE8GAAAAAAAAUAYAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABPBgAAAAAAAE8GAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOGzAAAAAAAA4bMAAAAAAAABAAAAcA",
+							"AQAAAAAAAAABAAAA4rMAAAAAAADiswAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAOGzAAAAAAAA4rMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4bMAAAAAAADhswAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AgAAAD20AAAAAAAAPrQAAAAAAAAAAAAAPrQAAAAAAAA+tAAAAAAAAAYAAABSZXR1cm4",
+							"AQAAAAAAAAABAAAAQ7QAAAAAAAA9tAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKa0AAAAAAAAprQAAAAAAAABAAAAcA",
+							"AQAAAAAAAAABAAAAp7QAAAAAAACntAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAKa0AAAAAAAAp7QAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAprQAAAAAAACmtAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AgAAAAK1AAAAAAAAA7UAAAAAAAAAAAAAA7UAAAAAAAADtQAAAAAAAAYAAABSZXR1cm4",
+							"AQAAAAAAAAABAAAACLUAAAAAAAACtQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"left_delete",
+							null,
+							"AQAAACK0AAAAAAAAIrQAAAAAAAAKAAAAfFNoaWZ0TWFzaw",
+							"AQAAAAAAAAABAAAALLQAAAAAAAAitAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "           "
+							},
+							"CwAAACy0AAAAAAAALbQAAAAAAAAAAAAALbQAAAAAAAAutAAAAAAAAAAAAAAutAAAAAAAAC+0AAAAAAAAAAAAAC+0AAAAAAAAMLQAAAAAAAAAAAAAMLQAAAAAAAAxtAAAAAAAAAAAAAAxtAAAAAAAADK0AAAAAAAAAAAAADK0AAAAAAAAM7QAAAAAAAAAAAAAM7QAAAAAAAA0tAAAAAAAAAAAAAA0tAAAAAAAADW0AAAAAAAAAAAAADW0AAAAAAAANrQAAAAAAAAAAAAANrQAAAAAAAA3tAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALLQAAAAAAAAstAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"left_delete",
+							null,
+							"AQAAADa0AAAAAAAANrQAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAN7QAAAAAAAA3tAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIu0AAAAAAAAi7QAAAAAAAAMAAAAfENvbnRyb2xNYXNr",
+							"AQAAAAAAAAABAAAAl7QAAAAAAACLtAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": "            "
+							},
+							"DAAAAJG0AAAAAAAAkrQAAAAAAAAAAAAAkrQAAAAAAACTtAAAAAAAAAAAAACTtAAAAAAAAJS0AAAAAAAAAAAAAJS0AAAAAAAAlbQAAAAAAAAAAAAAlbQAAAAAAACWtAAAAAAAAAAAAACWtAAAAAAAAJe0AAAAAAAAAAAAAJe0AAAAAAAAmLQAAAAAAAAAAAAAmLQAAAAAAACZtAAAAAAAAAAAAACZtAAAAAAAAJq0AAAAAAAAAAAAAJq0AAAAAAAAm7QAAAAAAAAAAAAAm7QAAAAAAACctAAAAAAAAAAAAACctAAAAAAAAJ20AAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkbQAAAAAAACRtAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOe0AAAAAAAA57QAAAAAAAAMAAAAfENvbnRyb2xNYXNr",
+							"AQAAAAAAAAABAAAA87QAAAAAAADntAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": "            "
+							},
+							"DAAAAPC0AAAAAAAA8bQAAAAAAAAAAAAA8bQAAAAAAADytAAAAAAAAAAAAADytAAAAAAAAPO0AAAAAAAAAAAAAPO0AAAAAAAA9LQAAAAAAAAAAAAA9LQAAAAAAAD1tAAAAAAAAAAAAAD1tAAAAAAAAPa0AAAAAAAAAAAAAPa0AAAAAAAA97QAAAAAAAAAAAAA97QAAAAAAAD4tAAAAAAAAAAAAAD4tAAAAAAAAPm0AAAAAAAAAAAAAPm0AAAAAAAA+rQAAAAAAAAAAAAA+rQAAAAAAAD7tAAAAAAAAAAAAAD7tAAAAAAAAPy0AAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA8LQAAAAAAADwtAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPy0AAAAAAAA/bQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/LQAAAAAAAD8tAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPy0AAAAAAAA/LQAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAA/bQAAAAAAAD9tAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"termin",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"terminu",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/riccardoc/suckless/dwm-flexipatch"
+			],
+			"file_history":
+			[
+				"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c.rej",
+				"/home/riccardoc/suckless/dwm/dwm-6.5/dwm.c",
+				"/home/riccardoc/suckless/dwm/dwm-6.5/config.def.h"
+			],
+			"find":
+			{
+				"height": 61.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gap",
+					"centered",
+					"https://dwm.suckless.org/patches/gap",
+					"https://dwm.suckless.org/patches/tile",
+					"https://dwm.suckless.org/patches/tilegap/",
+					"tilegap",
+					"https://dwm.suckless.org/patches/tilegap/",
+					"gap",
+					"monitor"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/riccardoc/suckless/dwm-flexipatch"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/riccardoc/suckless/dwm-flexipatch/patches.def.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 60729,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										54288,
+										54288
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 68230.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/riccardoc/suckless/dwm-flexipatch/config.def.h",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 95333,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										46332,
+										46332
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 38291.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 61.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 264.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,27,1920,1056,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 118.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

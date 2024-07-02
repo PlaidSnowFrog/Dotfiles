@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C Improved",
+		"C++11",
+		"LSP-clangd",
+		"Makefile Plus",
+		"Package Control",
+		"Terminus",
+	],
+}
