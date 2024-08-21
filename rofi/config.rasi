@@ -2,13 +2,13 @@ configuration {
   display-drun: "Programs";
   drun-display-format: "{icon} {name}";
   font: "JetBrainsMono Nerd Font Medium 12";
-  modi: "window,drun,run,emoji,filebrowser";
+  modi: "window,drun,run,filebrowser";
   show-icons: true;
   icon-theme: "Papirus";
 }
 
 
-@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
 
 window {
   width: 45%;

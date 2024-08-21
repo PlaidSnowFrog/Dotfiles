@@ -14,6 +14,6 @@ bspc config gapless_monocle      true
 #AutoStart applications
 sxhkd &
 picom --config $HOME/.config/picom/picom.conf &
-feh --bg-scale $HOME/Pictures/backgrounds/nord.jpg &
+feh --bg-scale $HOME/Pictures/Backgrounds/Background.jpeg &
 dunst &
 polybar &
